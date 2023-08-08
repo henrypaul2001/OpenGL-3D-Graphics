@@ -1,5 +1,5 @@
 # OpenGL-3D-Graphics
-![Alt Text]([https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnRrc2Via2VtaW5lczJyODZ0eHk5bnd6bndzeGNhNDYxbHkxeDg0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EJcX2zVHhSszO8FIU3/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTZkeGMwMXoydXdsMWpnd2Q2d2swaGhmbHJ3ZGNkcjl2ZzB0dnp4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wRUedeqt3QzGSRLT8f/giphy.gif)https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTZkeGMwMXoydXdsMWpnd2Q2d2swaGhmbHJ3ZGNkcjl2ZzB0dnp4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wRUedeqt3QzGSRLT8f/giphy.gif)
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTZkeGMwMXoydXdsMWpnd2Q2d2swaGhmbHJ3ZGNkcjl2ZzB0dnp4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wRUedeqt3QzGSRLT8f/giphy.gif)
 
 A basic 3D scene create using OpenGL to demonstrate knowledge of various rendering techniques.
 
